@@ -1,3 +1,4 @@
+FOXXIE TERMINAL
 Since this is a beta version, there are not many commands available yet; more commands will be added in future updates. Here are the features of the beta version:
 
 FEATURES ADDED TO THE TERMINAL IN THE FOXXIE TERMINAL BETA UPDATE:
